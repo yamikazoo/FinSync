@@ -28,7 +28,6 @@ All this is enveloped using an easy to use interface complete with charts and vi
 * **Predictive Insights:** It doesn't just see a "Trip" event; it uses **Gemini** to estimate costs based on your past spending, current market data and logical inference.
 
 ### 2. Multimodal RAG "Paper-to-Plan"
-(to be implemented)
 * **Smart Document Parsing:** Upload a messy lease agreement, a complex utility bill, or even a financial research paper.
 * **Automated Budgeting:** Our RAG pipeline extracts key dates and amounts, automatically adding "Rent Increase" or "Payment Due" events to your calendar.
 
